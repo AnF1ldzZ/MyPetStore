@@ -1,0 +1,12 @@
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\bin\Debug\CRUDWinFormsMVP.exe.config
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\bin\Debug\CRUDWinFormsMVP.exe
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\bin\Debug\CRUDWinFormsMVP.pdb
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.csproj.AssemblyReference.cache
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.Properties.Resources.resources
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.Views.PetView.resources
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.csproj.GenerateResource.cache
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.csproj.CoreCompileInputs.cache
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.exe
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.pdb
+C:\Users\Nathakamon.T\source\repos\CRUDWinFormsMVP\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.Views.MainView.resources
